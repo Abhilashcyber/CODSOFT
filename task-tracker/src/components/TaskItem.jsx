@@ -1,5 +1,3 @@
-// src/components/TaskItem.js
-
 import React from 'react';
 
 const TaskItem = ({ task, updateTask, deleteTask, toggleComplete }) => {
