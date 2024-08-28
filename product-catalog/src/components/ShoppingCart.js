@@ -1,4 +1,3 @@
-// src/components/ShoppingCart.js
 import React from 'react';
 import './ShoppingCart.css';
 

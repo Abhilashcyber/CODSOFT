@@ -1,4 +1,3 @@
-// src/App.js
 import React, { useState } from 'react';
 import ProductCatalog from './components/ProductCatalog';
 import ShoppingCart from './components/ShoppingCart';
